@@ -1,0 +1,12 @@
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/WakeMeUp.App.xaml.g.cs
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/WakeMeUp.WakeMeUpPage.xaml.g.cs
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/WakeMeUp.App.xaml
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/WakeMeUp.WakeMeUpPage.xaml
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/bin/Debug/WakeMeUp.dll.mdb
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/bin/Debug/WakeMeUp.dll
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/WakeMeUp.dll
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/obj/Debug/WakeMeUp.dll.mdb
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/bankdev/Projects/WakeMeUp/WakeMeUp/bin/Debug/Xamarin.Forms.Platform.dll
