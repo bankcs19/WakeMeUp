@@ -1,1 +1,15 @@
-﻿<Properties StartupItem="iOS/WakeMeUp.iOS.csproj" />
+﻿<Properties StartupItem="iOS/WakeMeUp.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WakeMeUp/WakeMeUpPage.xaml">
+    <Files>
+      <File FileName="WakeMeUp/App.xaml.cs" Line="12" Column="4" />
+      <File FileName="WakeMeUp/WakeMeUpPage.xaml" Line="20" Column="15" />
+      <File FileName="WakeMeUp/WakeMeUpPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WakeMeUp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.b083c9676cd3d40da5f676bc19f265d31ddd4355" />
+</Properties>
